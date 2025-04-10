@@ -8,8 +8,8 @@ Cloud gaming, also known as game streaming, is a technology that allows users to
 ## Market Overview and Projections
 
 ### Market Growth
-The global cloud gaming market is projected to grow from $2.38 billion in 2022 to an estimated $8.17 billion by 2025. This substantial growth reflects a Compound Annual Growth Rate (CAGR) of approximately 50%, underscoring the increasing adoption and investment in cloud gaming technologies across the industry.
-
+The global cloud gaming market is projected to grow from $2.38 billion in 2022 to an estimated $8.17 billion by 2025. This substantial growth reflects a Compound Annual Growth Rate (CAGR) of approximately 50%, underscoring the increasing adoption and investment in cloud gaming technologies across the industry.    
+<img src = "market_acc_devices.png" width=500px >
 ### User Adoption
 By 2025, the number of cloud gamers worldwide is expected to reach approximately 293 million. This represents a significant rise from previous years and highlights the expanding reach and appeal of cloud gaming among diverse audiences, from casual mobile gamers to dedicated console players seeking flexibility.
 
